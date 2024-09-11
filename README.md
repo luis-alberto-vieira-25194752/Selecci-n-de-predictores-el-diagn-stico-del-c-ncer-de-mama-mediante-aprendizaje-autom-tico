@@ -37,6 +37,7 @@ Por último, se mostraron en un gráfico de barras los cinco predictores más im
 ## Herramientas utilizadas
 **Lenguaje de programación**: 
 -	Python
+  
 **Librerías de Python**:
 -	Pandas (para manipulación de datos)
 -	Numpy (para operaciones numéricas)
